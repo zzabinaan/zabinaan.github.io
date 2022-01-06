@@ -1,0 +1,7 @@
+{
+  "prettier.printWidth": 240,
+  "editor.minimap.maxColumn": 0,
+  "files.autoSave": "onFocusChange",
+  "editor.minimap.enabled": false,
+  "editor.lineHeight": 20
+}
